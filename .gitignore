@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ROS 2 工作空间忽略规则
 build/
 install/
@@ -5,3 +6,4 @@ log/
 devel/
 .DS_Store  #  macOS系统忽略
 *.swp      # Vim临时文件忽略
+.vscode/
