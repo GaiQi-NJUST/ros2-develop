@@ -1,0 +1,3 @@
+[submodule "ros2_ws/src/motor_simulator"]
+	path = ros2_ws/src/motor_simulator
+	url = /home/gaiqi/ros2-container/ros2_ws/src/motor_simulator
